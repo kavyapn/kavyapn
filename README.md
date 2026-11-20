@@ -25,7 +25,7 @@
 - 📊 Turning raw data into decisions with SQL, data warehouses, ETL pipelines and BI dashboards
 - ✅ A quality-engineering and release-management background, so I care about data quality, validation and models you can trust
 - 🧑‍🤝‍🧑 Organizer of **AI Agenten Frankfurt**, a meetup that brings practical AI tools to beginners
-- 🏆 Hackathons: FUTURY Build Days (Deutsche Bank challenge, 2nd place), BerlinHack
+- 🏆 Hackathons: FUTURY Build Days (Deutsche Bank challenge, 2nd place), BAD1 Berlin Hack (30 May 2026)
 
 <br/>
 
@@ -75,8 +75,8 @@ Financial-health concept with an AI coach for Deutsche Bank's Next Gen challenge
 <tr>
 <td width="50%" valign="top">
 
-**🏛️ [Behörden-Bot · Berlin Hack](https://github.com/kavyapn/BerlinHack)**<br/>
-Hackathon build for the *Administrative & Legal Friction* track. Decodes German authority letters with real OCR (Tesseract, deu+eng) plus an LLM, builds a personalised company-setup roadmap, and matches founders to real grants (EXIST, Pro FIT, EIC and more). Human-in-the-loop: it drafts, you submit.<br/>
+**🏛️ [Behörden-Bot · BAD1 Berlin Hack](https://github.com/kavyapn/BerlinHack)**<br/>
+Built at **BAD1 Berlin Hack** (30 May 2026) for the *Administrative & Legal Friction* track. Decodes German authority letters with real OCR (Tesseract, deu+eng) plus an LLM, builds a personalised company-setup roadmap, and matches founders to real grants (EXIST, Pro FIT, EIC and more). Human-in-the-loop: it drafts, you submit.<br/>
 <sub>React · Vite · LLM APIs · Tesseract OCR · Zustand</sub>
 
 </td>
