@@ -73,11 +73,34 @@ Financial-health concept with an AI coach for Deutsche Bank's Next Gen challenge
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+**🏛️ [Behörden-Bot · Berlin Hack](https://github.com/kavyapn/BerlinHack)**<br/>
+Hackathon build for the *Administrative & Legal Friction* track. Decodes German authority letters with real OCR (Tesseract, deu+eng) plus an LLM, builds a personalised company-setup roadmap, and matches founders to real grants (EXIST, Pro FIT, EIC and more). Human-in-the-loop: it drafts, you submit.<br/>
+<sub>React · Vite · LLM APIs · Tesseract OCR · Zustand</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🧭 [Clarus](https://github.com/kavyapn/Clarus)**<br/>
+The follow-on to Behörden-Bot: an AI guide for international founders in Germany, with a legal-form advisor, visa checker, document and email drafting agents, and a bilingual German/English mode.<br/>
+<sub>React · Vite · LLM agents · OCR</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **☀️ [Solar Panel Fault Detection](https://github.com/kavyapn/Solar-Panel-Fault-Detection)**<br/>
 Computer-vision app that classifies solar panel condition (clean, dusty, bird-drop, snow, physical and electrical damage) using VGG16 transfer learning, with a Streamlit interface and Docker setup.<br/>
 <sub>TensorFlow/Keras · Streamlit · Docker</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**💬 [HFU-Chatbot](https://github.com/kavyapn/HFU-Chatbot)**<br/>
+RAG chatbot with a Streamlit UI: Tavily crawling, OpenAI embeddings, Chroma vector store and history-aware retrieval that cites its sources.<br/>
+<sub>LangChain · Chroma · Tavily · Streamlit</sub>
 
 </td>
 </tr>
